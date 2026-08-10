@@ -9,7 +9,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 <!-- SYNC_LGU_TABLE_START -->
 
 | LGU                                 | Domain                                                        | Repository                                                                     | Socials                                                            | Status                 | Maintainer/s                                                                                                                     |
-| ----------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+|-------------------------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------|
 | Solano, Nueva Vizcaya               | [bettersolano.org](https://bettersolano.org)                  | [GitHub](https://github.com/BetterSolano/bettersolano)                         | [Facebook](https://www.facebook.com/bettersolano.org)              | 🟢 Active              | [@ramonloganjr](https://github.com/ramonloganjr)                                                                                 |
 | Bacolod City, Negros Occidental     | [betterbacolod.org](https://betterbacolod.org)                | [GitHub](https://github.com/betterbacolod/betterbacolod)                       | [Facebook](https://www.facebook.com/betterbacolod.org)             | 🟢 Active              | [@mattenarle10](https://github.com/mattenarle10)                                                                                 |
 | Calauan, Laguna                     | [bettercalauan.org](https://bettercalauan.org)                | [GitHub](https://github.com/bettercalauan/bettercalauan/tree/react-typescript) | [Facebook](https://www.facebook.com/BetterCalauan.org)             | 🟢 Active              | [@xpall](https://github.com/xpall)                                                                                               |
@@ -93,7 +93,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 ## 🚦 Status Legend
 
 | Badge               | Meaning                                         |
-| ------------------- | ----------------------------------------------- |
+|---------------------|-------------------------------------------------|
 | 🟢 Active           | Actively maintained with regular updates        |
 | 🟡 Work in Progress | Under development, not yet publicly launched    |
 | 🔴 Unmaintained     | No longer being actively maintained             |
@@ -102,7 +102,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 ### Secondary Tags
 
 | Tag                  | Meaning                                                                            |
-| -------------------- | ---------------------------------------------------------------------------------- |
+|----------------------|------------------------------------------------------------------------------------|
 | ⚠️ Stale             | A `🔵 Planned` entry with no directory activity for over 30 days                   |
 | 🤝 Open for Adoption | Anyone may take the entry on — as a takeover, or alongside the original maintainer |
 
@@ -117,7 +117,7 @@ Tags are applied by the repository maintainers during periodic reviews, never au
 These templates are provided by the community to help you get started quickly.
 
 | Template                 | Stack              | Repository                                             | Description                                                 |
-| ------------------------ | ------------------ | ------------------------------------------------------ | ----------------------------------------------------------- |
+|--------------------------|--------------------|--------------------------------------------------------|-------------------------------------------------------------|
 | Better Solano Starter    | React + TypeScript | [GitHub](https://github.com/BetterSolano/bettersolano) | Starter template based on the BetterSolano implementation   |
 | Better Los Baños Starter | React + TypeScript | [GitHub](https://github.com/BetterLosBanos/betterlb)   | Starter template based on the BetterLosBaños implementation |
 | Better Local Gov         | React + TypeScript | [GitHub](https://github.com/iyanski/betterlocalgov)    | Local Government Website Starter Kit                        |
@@ -131,7 +131,6 @@ These templates are provided by the community to help you get started quickly.
 Ready to build a transparency portal for your LGU? Read the full guide: **[How to Start Your Better LGU Portal](GUIDE.md)**
 
 The short version:
-
 1. **Register your intent** — open a PR to add your LGU with a `🔵 Planned` status
 2. **Build** — pick a [community template](TEMPLATES.md), set up your `better[lguname]` repo, gather public data, and deploy to a `better[lguname].org` domain
 3. **Launch and maintain** — update your entry to `🟢 Active` once live, and keep the data current
